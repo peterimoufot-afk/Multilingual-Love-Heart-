@@ -1,0 +1,6 @@
+{
+  "name": "Multilingual Love Heart",
+  "description": "A generative typographic art experiment rendering a living heart silhouette composed of 'I love you' in 20+ languages with floating animations and shimmering glow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
